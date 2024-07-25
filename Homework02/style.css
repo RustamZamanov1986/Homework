@@ -1,0 +1,41 @@
+#panda {
+    width: 10%;
+    height: 10%;
+    object-fit: cover;
+    position: relative;
+    margin-left: calc(50% - 10%);
+}
+* body{
+    background: linear-gradient(45deg, #04decc, #0b0ba397);
+}
+.intro{
+    background-color: #a75d5d5e;
+    color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 #fff;
+}
+.headline{
+    font-size: 2em;
+    color: #fff;
+    text-align: center;
+}
+.subheader{
+    font-size: 2em; 
+    color: #020000;
+    text-align: center;
+    font-weight: bold;
+}
+.main-text{
+    font-style: italic;
+    font-size: 1em;
+    color: #020000;
+    font-family: cursive;
+
+}
+.text-more{
+    font-size: 1,5em;
+    color: #020000;
+    font-family: fantasy;
+}
